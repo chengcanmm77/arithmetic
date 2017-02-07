@@ -1,5 +1,6 @@
 arithmetic/.classpath
 target/
+bin/
 .settings/
 .externalToolBuilders/
 arithmetic/.project
