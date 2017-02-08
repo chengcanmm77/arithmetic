@@ -1,5 +1,11 @@
 package com.bucket.arithmetic.sort.heap;
 
+/**
+ * 堆排序算法
+ * 1、思路：
+ * 
+ * @author bucket
+ */
 public class MaxHeapSort {
 
     private int[] data;
@@ -60,5 +66,6 @@ public class MaxHeapSort {
         for (int t : a) {
             System.out.print(t + ",");
         }
+
     }
 }
